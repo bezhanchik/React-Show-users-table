@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bezhanchik/React-Show-users-table/static/css/main.49bcef3b.css",
-    "main.js": "/bezhanchik/React-Show-users-table/static/js/main.a32b5b11.js",
-    "static/js/453.5b715423.chunk.js": "/bezhanchik/React-Show-users-table/static/js/453.5b715423.chunk.js",
-    "index.html": "/bezhanchik/React-Show-users-table/index.html",
-    "main.49bcef3b.css.map": "/bezhanchik/React-Show-users-table/static/css/main.49bcef3b.css.map",
-    "main.a32b5b11.js.map": "/bezhanchik/React-Show-users-table/static/js/main.a32b5b11.js.map",
-    "453.5b715423.chunk.js.map": "/bezhanchik/React-Show-users-table/static/js/453.5b715423.chunk.js.map"
+    "main.css": "/React-Show-users-table/static/css/main.49bcef3b.css",
+    "main.js": "/React-Show-users-table/static/js/main.76585ae5.js",
+    "static/js/453.5b715423.chunk.js": "/React-Show-users-table/static/js/453.5b715423.chunk.js",
+    "index.html": "/React-Show-users-table/index.html",
+    "main.49bcef3b.css.map": "/React-Show-users-table/static/css/main.49bcef3b.css.map",
+    "main.76585ae5.js.map": "/React-Show-users-table/static/js/main.76585ae5.js.map",
+    "453.5b715423.chunk.js.map": "/React-Show-users-table/static/js/453.5b715423.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49bcef3b.css",
-    "static/js/main.a32b5b11.js"
+    "static/js/main.76585ae5.js"
   ]
 }
